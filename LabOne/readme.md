@@ -1,18 +1,18 @@
-Lab 1 - Network Traffic Traffic & DoS Attack on GENI
+# Lab 1 - Network Traffic Traffic & DoS Attack on GENI
 
 In this lab, you will perform an experimental Denial-of-Service attack and collect network packets on the GENI testbed. First your request to join the class project needs to be approved by the instructor or CA. So please send out the request ASAP!!
 
-GENI 101
+## GENI 101
 
 Set up your GENI Account
 
-    Go to https://portal.geni.net and log in with your JHU ID. You may need to search for "Johns Hopkins" the first time.
-    After you are in the GENI Portal, find Join the Project button and request to join the class project named CIDSpring2020. 
-    Once you are approved to join the project, you can create your own experiment slices.
+Go to [https://portal.geni.net] and log in with your JHU ID. You may need to search for "Johns Hopkins" the first time.
+After you are in the GENI Portal, find Join the Project button and request to join the class project named CIDSpring2020. 
+- Once you are approved to join the project, you can create your own experiment slices.
 
-For Windows users, please refer to these getting started series of win-1 win-2.
+- For Windows users, please refer to these getting started series of win-1 win-2.
 
-For Mac users, please refer to these guides. mac-1 mac-2.
+- For Mac users, please refer to these guides. mac-1 mac-2.
 
 Lab Instructions 
 
