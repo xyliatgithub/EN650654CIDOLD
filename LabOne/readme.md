@@ -14,7 +14,7 @@ After you are in the GENI Portal, find Join the Project button and request to jo
 
 ## Lab Instructions 
 
-Please follow the instructions on this page to complete the lab. In case the hyperlink does not work, here's the full URL: [http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html]
+Please follow the instructions on [this page] (http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html) to complete the lab. In case the hyperlink does not work, here's the full URL: [http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html]
 
 ## Report Submission
 
