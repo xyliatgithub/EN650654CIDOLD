@@ -9,12 +9,12 @@ Set up your GENI Account
 Go to [https://portal.geni.net] and log in with your JHU ID. You may need to search for "Johns Hopkins" the first time.
 After you are in the GENI Portal, find Join the Project button and request to join the class project named CIDSpring2020. 
 - Once you are approved to join the project, you can create your own experiment slices.
-- For Windows users, please refer to these getting started series of win-1 win-2.
-- For Mac users, please refer to these guides. mac-1 mac-2.
+- For Windows users, please refer to these getting started series of [win-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindows.html) [win-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindowsHelloGENI.html).
+- For Mac users, please refer to these guides [mac-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMac.html) [mac-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMacHelloGENI.html).
 
 ## Lab Instructions 
 
-Please follow the instructions on [this page] (http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html) to complete the lab. In case the hyperlink does not work, here's the full URL: [http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html]
+Please follow the instructions on [this page](http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html) to complete the lab. In case the hyperlink does not work, here's the full URL: [http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html]
 
 ## Report Submission
 
