@@ -9,27 +9,25 @@ Set up your GENI Account
 Go to [https://portal.geni.net] and log in with your JHU ID. You may need to search for "Johns Hopkins" the first time.
 After you are in the GENI Portal, find Join the Project button and request to join the class project named CIDSpring2020. 
 - Once you are approved to join the project, you can create your own experiment slices.
-
 - For Windows users, please refer to these getting started series of win-1 win-2.
-
 - For Mac users, please refer to these guides. mac-1 mac-2.
 
-Lab Instructions 
+## Lab Instructions 
 
-Please follow the instructions on this page to complete the lab. In case the hyperlink does not work, here's the full URL: http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html
+Please follow the instructions on this page to complete the lab. In case the hyperlink does not work, here's the full URL: [http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html]
 
-Report Submission
+## Report Submission
 
-    The lab is due on 2/14, Friday by 11:59 PM.
-    You can work in a group up to two people. A list of current student email addresses is available in the Syllabus section for your reference.
-    Each group can only submit one report. Please submit one PDF file.
-    Complete all the tasks in this lab manual and write a detailed report with adequate screenshots and explanations. 
+- The lab is due on 2/14, Friday by 11:59 PM.
+- You can work in a group up to two people. A list of current student email addresses is available in the Syllabus section for your reference.
+- Each group can only submit one report. Please submit one PDF file.
+- Complete all the tasks in this lab manual and write a detailed report with adequate screenshots and explanations. 
 
-Grading 
+## Grading 
 
-    Completeness (20 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
-    Presentation (10 pts): The report must be clear and correct in organization and writing with adequate explanation. 
+- Completeness (20 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
+- Presentation (10 pts): The report must be clear and correct in organization and writing with adequate explanation. 
 
-If You Need Help...
+## If You Need Help...
 
 If there are any questions about getting started with GENI or working on the lab, feel free to send an email to Abdullah Alghofaili (aalghof1@jhu.edu).
