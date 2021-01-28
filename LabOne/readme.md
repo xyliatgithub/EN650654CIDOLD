@@ -33,4 +33,4 @@ Please follow the instructions on [this page](http://mountrouidoux.people.cofc.e
 
 ## If You Need Help...
 
-If there are any questions about getting started with GENI or working on the lab, feel free to send an email to Qingshan Zhang at 
+If there are any questions about getting started with GENI or working on the lab, feel free to send an email to Qingshan Zhang (qzhang68@jhu.edu)
