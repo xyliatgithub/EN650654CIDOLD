@@ -20,9 +20,9 @@ Please follow the instructions on [this page](http://mountrouidoux.people.cofc.e
 
 - Setup: Step 5: Please use the new rspec file "denialOfServiceLevel1_NEW.txt" instead of the file at the given link. You could copy the fiel "denialOfServiceLevel1_NEW.txt" under this LabOne folder and choose the "Text Box" option instead of the "URL" option, then paste the rspec into it and click "Select".
 - Setup: If you follow all the steps in Setup part but your topology does not work, please try another aggregate for the site.
-- Part 5 Step 5: If you cannot use SFTP connect to the node successfully, you need to use your key like ssh, so the command could be look like:
+- Part 5 Step 5: If you are a Mac or Linux user, and you cannot use SFTP connect to the node successfully. You need to use your key like ssh, so the command could be look like:
 " sftp -i <your key for ssh> -oPort=<Your corresponding port from the previous step> your_username@host "
-- After finishing the lab, please do not forget to delete your topology so that the resources are not occupied.
+- After finishing the lab, please do not forget to delete your topology so that the resources you reserved available again for other users.
 
 ## Report Submission
 
@@ -38,4 +38,4 @@ Please follow the instructions on [this page](http://mountrouidoux.people.cofc.e
 
 ## If You Need Help...
 
-If there are any questions about getting started with GENI or working on the lab, feel free to send an email to Qingshan Zhang (qzhang68@jhu.edu)
+If there are any questions about getting started with GENI or working on the lab, feel free to send an email to the CA, Qingshan Zhang (qzhang68@jhu.edu)
