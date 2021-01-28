@@ -20,7 +20,3 @@ Please follow the instructions on [this page](http://mountrouidoux.people.cofc.e
 - Part 5: Step 5: If you are a Mac or Linux user and you cannot use SFTP to connect to the node successfully, you need to use your key like ssh. The command may look like: 
 " sftp -i \<your key for ssh\> -o Port=\<Your corresponding port from the previous step\> your_username@host "
 - After finishing the lab, please do not forget to delete the resources of your slice so they can be used by other users.
-
-## If You Need Help...
-
-If there are any questions about getting started with GENI or working on the lab, feel free to send an email to the CA, Qingshan Zhang (qzhang68@jhu.edu)
