@@ -17,7 +17,10 @@ After you are in the GENI Portal, find Join the Project button and request to jo
 Please follow the instructions on [this page](http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html) to complete the lab. In case the hyperlink does not work, here's the full URL: [http://mountrouidoux.people.cofc.edu/CyberPaths/networktrafficandddos.html]
 
 **Note: There are a few changes needed in order to successfully run this lab:**
+
 - Setup: Step 5: Please use the new rspec file "denialOfServiceLevel1_NEW.txt" instead of the file at the given link.
+- Part 5 Step 5: If you cannot use SFTP connect to the node successfully, you need to use your key like ssh, so the command could be look like:
+" sftp -i <your key for ssh> -oPort=<Your corresponding port from the previous step> your_username@host "
 
 ## Report Submission
 
