@@ -1,13 +1,13 @@
 # Lab 1 - Network Traffic Traffic & DoS Attack on GENI
 
-In this lab, you will perform an experimental Denial-of-Service attack and collect network packets on the GENI testbed. First your request to join the class project needs to be approved by the instructor or CA. So please send out the request ASAP!!
+In this lab, we will perform an experimental Denial-of-Service attack and collect network packets on the GENI testbed. First your request to join the class project needs to be approved by the instructor or CA. So please send out the request ASAP!!
 
 ## GENI 101
 
 Set up your GENI Account
 
 Go to [https://portal.geni.net] and log in with your JHU ID. You may need to search for "Johns Hopkins" the first time.
-After you are in the GENI Portal, find Join the Project button and request to join the class project named CIDSpring2020. 
+After you log into the GENI Portal, find Join the Project button and request to join the class project named "EN650654-2021". 
 - Once you are approved to join the project, you can create your own experiment slices.
 - For Windows users, please refer to these getting started series of [win-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindows.html) [win-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindowsHelloGENI.html).
 - For Mac users, please refer to these guides [mac-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMac.html) [mac-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMacHelloGENI.html).
@@ -18,15 +18,13 @@ Please follow the instructions on [this page](http://mountrouidoux.people.cofc.e
 
 **Note: There are a few changes needed in order to successfully run this lab:**
 
-- Setup: Step 5: Please use the new rspec file "denialOfServiceLevel1_NEW.txt" instead of the file at the given link. You could copy the fiel "denialOfServiceLevel1_NEW.txt" under this LabOne folder and choose the "Text Box" option instead of the "URL" option, then paste the rspec into it and click "Select".
-- Setup: If you follow all the steps in Setup part but your topology does not work, please try another aggregate for the site.
-- Part 5 Step 5: If you are a Mac or Linux user, and you cannot use SFTP connect to the node successfully. You need to use your key like ssh, so the command could be look like:
-" sftp -i <your key for ssh> -oPort=<Your corresponding port from the previous step> your_username@host "
-- After finishing the lab, please do not forget to delete your topology so that the resources you reserved available again for other users.
+- Setup: Step 5: Please use the new rspec file "denialOfServiceLevel1_NEW.txt" instead of the file at the given link. You can use the File option or copy the content of "denialOfServiceLevel1_NEW.txt" using the Text Box option.
+- Setup: If you follow all the steps but your experiment does not start as expected, please check the error messages. Sometimes you need to try another aggregate since the resources at the slected aggregate are limited.
+- Part 5: Step 5: If you are a Mac or Linux user and you cannot use SFTP to connect to the node successfully, you need to use your key like ssh. The command may look like: "sftp -i <your key for ssh> -oPort=<Your corresponding port from the previous step> your_username@host"
+- After finishing the lab, please do not forget to delete the resources of your experiment so they become for other users.
 
 ## Report Submission
 
-- The lab is due on 2/14, Friday by 11:59 PM.
 - You can work in a group up to two people. A list of current student email addresses is available in the Syllabus section for your reference.
 - Each group can only submit one report. Please submit one PDF file.
 - Complete all the tasks in this lab manual and write a detailed report with adequate screenshots and explanations. 
