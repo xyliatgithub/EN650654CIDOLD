@@ -20,17 +20,6 @@ Please follow the instructions on [this page](http://mountrouidoux.people.cofc.e
 - Part 5: Step 5: If you are a Mac or Linux user and you cannot use SFTP to connect to the node successfully, you need to use your key like ssh. The command may look like: "sftp -i <your key for ssh> -oPort=<Your corresponding port from the previous step> your_username@host"
 - After finishing the lab, please do not forget to delete the resources of your experiment so they become for other users.
 
-## Report Submission
-
-- You can work in a group up to two people. A list of current student email addresses is available in the Syllabus section for your reference.
-- Each group can only submit one report. Please submit one PDF file.
-- Complete all the tasks in this lab manual and write a detailed report with adequate screenshots and explanations. 
-
-## Grading 
-
-- Completeness (20 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
-- Presentation (10 pts): The report must be clear and correct in organization and writing with adequate explanation. 
-
 ## If You Need Help...
 
 If there are any questions about getting started with GENI or working on the lab, feel free to send an email to the CA, Qingshan Zhang (qzhang68@jhu.edu)
