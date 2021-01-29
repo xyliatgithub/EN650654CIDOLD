@@ -7,8 +7,8 @@ In this lab, we will perform an experimental Denial-of-Service attack and collec
 Please set up your GENI account ASAP. Go to [https://portal.geni.net] and log in with your JHU ID. You may need to search for "Johns Hopkins" the first time.
 After you log into the GENI Portal, find Join the Project button and request to join the class project named "EN650654-2021". 
 - Once you are approved to join the project, you can create your own experiment slices.
-- For Windows users, please refer to these getting started series of [win-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindows.html) [win-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindowsHelloGENI.html).
-- For Mac users, please refer to these guides of [mac-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMac.html) [mac-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMacHelloGENI.html).
+- For Windows users, please refer to these getting started series of [win-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindows.html) and [win-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedWindowsHelloGENI.html).
+- For Mac users, please refer to these guides of [mac-1](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMac.html) and [mac-2](http://mountrouidoux.people.cofc.edu/CyberPaths/GettingStartedMacHelloGENI.html).
 
 ## Lab Instructions 
 
