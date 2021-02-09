@@ -19,8 +19,8 @@ Please follow the instructions on [this page](http://mountrouidoux.people.cofc.e
 - Setup: If you follow all the steps but your experiment does not start as expected, please check the error messages. Sometimes you need to try another aggregate since the resources at the slected aggregate are limited.
 - Part 5: Step 5: If you are a Mac or Linux user and you cannot use SFTP to connect to the node successfully, you need to use your key like ssh. The command may look like:  
 " sftp -i \<the same key with your ssh key\> -o Port=\<Your corresponding port from the previous step\> your_username@host "
-- Part7. You could only analyze the regular traffic. Just repeat step1-3 from Part5 four more times. Use iperf to generate traffic and use tcpdump to generate pcap files. You do not need to attack. Notice that you should make each traffic generation time as same as possible.  
-To control the time more accurately, I suggest you use the following command:  
+- Part7: You could only analyze the regular traffic. Just repeat step1-3 from Part5 four more times. Use iperf to generate traffic and use tcpdump to generate pcap files. You do not need to attack. Notice that you should make each traffic generation time as same as possible.  
+To control the time more accurately, You could use the following command:  
 "sudo tcpdump -i <interface> -s0 -G <the time you want> -w %H%M_%S.pcap"  
 Notice: Do not set the time too long in case the Pcap file will be too large.
 - After finishing the lab, please do not forget to delete the resources of your slice so they can be used by other users.
