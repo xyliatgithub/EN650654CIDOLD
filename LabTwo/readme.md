@@ -1,6 +1,6 @@
 # Lab 2 - Local DNS Attack
 
-In this lab assignment, you will need to setup multiple SEED lab VMs and perform the DNS attack. In addition to those tasks required by the SEED lab documentation, you also need to finish the additional tasks described below.
+In this lab assignment, you will need to setup multiple SEED lab VMs and perform an DNS attack. In addition to those tasks required by the SEED lab documentation, you also need to finish the additional tasks described below.
 
 ## Setup 
 
@@ -26,19 +26,3 @@ Once you have configured a VM, you can simply clone that VM for two more times t
 - Task 5: If you don't attack successfully. It's probably just that the request you sent using netwox didn't arrive at the user's machine before the local DNS server's packet. You could just try to use dig to send 20 or more requests on the user machine while running netwox.
 - Task 7: To improve the success rate of attack, you could modify the final line of the program to only respond to packets from the server: pkt = sniff(filter='udp and dst port 53 and src <your DNS server's address>', prn=spoof_dns).
 - Task 8 & 9: If you don't attack successfully, maybe you need to flush the cache and retry the DNS request multiple times.
-
-
-## Report Submission
-•	The lab is due on 2/28 (Friday) by 11:59 pm.  
-•	You can work in a group up to two people (No exception for this lab as we have 18 students in this class now). Each group only needs to submit one report in PDF format.  
-•	Complete all the tasks and write a detailed report with adequate screenshots and explanations.  
-
-## Grading
-
-•	50 pts  
-•	Completeness (30 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.  
-•	Presentation (20 pts): The report must be clear and correct in organization and writing with adequate explanation.  
-
-## If You Need Help...
-
-If there are any questions, feel free to send an email to Qingshan Zhang (qzhang68@jhu.edu).
