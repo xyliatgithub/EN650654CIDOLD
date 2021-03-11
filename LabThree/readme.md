@@ -1,10 +1,10 @@
-# Lab 3 - Firewall
+# Lab 3 - Linux Firewall Exploration
 
-In this lab, you will study the firewall and its logs in Linux systems using a SEED lab module.
+In this lab, you will study the Linux firewall and its logs in Linux systems using a SEED lab module.
 
 
 ## Lab Instructions 
-Please complete the lab tasks of 2.1, 2.3, and 2.4 in Section 2 (2.2 is not required so you only need to use UFW). of the Firewall.pdf file. You also need to finish the additional tasks described below.
+Please complete the lab tasks of 2.1, 2.3, and 2.4 in Section 2 (2.2 is not required so you only need to use UFW) of the Firewall.pdf file. You also need to finish the additional tasks described below.
 
 
 ### Additional Tasks
