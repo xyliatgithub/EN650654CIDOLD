@@ -1,4 +1,4 @@
-# Lab 1 - Network Traffic Traffic & DoS Attack on GENI
+# Lab 1 - Network Traffic & DoS Attack on GENI
 
 In this lab, we will perform an experimental Denial-of-Service attack and collect network packets on the GENI testbed. First your request to join the class project needs to be approved by the instructor or CA. So please send out the request ASAP!!
 
