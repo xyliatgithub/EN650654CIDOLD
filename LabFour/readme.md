@@ -20,6 +20,6 @@ If you want to create new rules, the new rules should be stored in /etc/snort/ru
 2.3 Are you able to create a Snort rule to detect the "failed login attempt of SSH connection"?  Explain why or why not clearly.
 
 ### 3. slowloris attack detection  
-3.1 Study the slowloris code. Explain how this attack is done and its potential impact on a victim.  
+3.1 Study the slowloris code (https://github.com/gkbrk/slowloris/blob/master/slowloris.py). Explain how this attack is done and its potential impact on a victim.  
 3.2 Please create a custom rule that can detect this attack on the Monitor node.  
 3.3 Test your alert by running slowloris code to see if your rule worked.
