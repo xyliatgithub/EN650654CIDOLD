@@ -16,6 +16,6 @@ Follow this document (http://mountrouidoux.people.cofc.edu/CyberPaths/IntrusionD
 ### 2. Create new rules  
 If you want to create new rules, the new rules should be stored in /etc/snort/rules/local.rules. Once you update the rules, always run the command "sudo snort -c /etc/snort/snort.conf -T -i eth1" to make sure there's no syntax error. Remember that you should always show how these rules work and include necessary screenshots.  
 2.1 Please create a custom rule that can detect SSH connections on the Monitor node.  
-2.2 Install "nmap" on the Attacker node. Try three different types of nmap scanning of the Victim node, and create customized Snort rules to detect such nmap scanning.  
+2.2 Install "nmap" on the Attacker node. Try two different types of nmap scanning of the Victim node, and create customized Snort rules to detect such nmap scanning.  
 2.3 Are you able to create a Snort rule to detect the "failed login attempt of SSH connection"?  Explain why or why not clearly.
 
